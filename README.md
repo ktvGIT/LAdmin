@@ -1,2 +1,2 @@
 # LAdmin 
-The program accounting various incidents and events
+The program ccounts various incidents and events
